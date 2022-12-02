@@ -13,3 +13,4 @@ nota: la "y" a veces se usa como vocal y a veces como consonante
 son las que no suenan
 h
 
+## consosnantes
